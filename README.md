@@ -1,11 +1,15 @@
-# CheatSheet
-Miscellaneous Cheat Sheets
-
-GIT Usage, ssh creation, branching and more
-[GIT Cheatsheet](../blob/main/git_commands.md)
-![github cheatsheet](../blob/main/img/github.png "github")
+# Miscellaneous Cheat Sheets
 
 
-POSTgreSQL Usage, shell commands, etc.
-[GIT Cheatsheet](psql_shell_commands.md)
-![POSTgreSQL Cheatsheet](img/psql.png "POSTgreSQL")
+
+[GIT Usage, ssh creation, branching and more](git_commands.md)
+![](img/github.png)
+
+[POSTgreSQL Usage, shell commands, etc.](psql_shell_commands.md)
+![](img/psql.png)
+
+[SQL Queriying Tables](sql_querying_tables.md)
+![](img/sql.png)
+
+[SQL Table Operations](sql_table_operations.md)
+![](img/sql.png)
